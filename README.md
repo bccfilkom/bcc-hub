@@ -4,7 +4,7 @@
 
 
 # BCCHub
-BCCHub is an app for learn coding in mobile apps.BCCHub apps is a crossplatform app for Android, iOS and Windows Phone. The content of the course is curated from BCC Community youtube page and website.
+BCCHub is an app for learn coding in mobile apps.BCCHub apps is a crossplatform app for Android, iOS. The content of the course is curated from BCC Community youtube page and website.
 
 ### Getting Started
 
