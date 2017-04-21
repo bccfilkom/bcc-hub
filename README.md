@@ -4,6 +4,8 @@
 
 
 # BCCHub
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 BCCHub is an app for learn coding in mobile apps.BCCHub apps is a crossplatform app for Android, iOS. The content of the course is curated from BCC Community youtube page and website.
 
 ### Getting Started
