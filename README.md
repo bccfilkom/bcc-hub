@@ -5,6 +5,7 @@
 
 # BCCHub
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bccfilkom/bcc-hub/issues)
+[![npm version](https://badge.fury.io/js/express.svg)](https://badge.fury.io/js/express)
 
 BCCHub is an app for learn coding in mobile apps.BCCHub apps is a crossplatform app for Android, iOS. The content of the course is curated from BCC Community youtube page and website.
 
